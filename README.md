@@ -24,3 +24,11 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+
+Crear cuenta en ionic.
+DEntro de ionic creas la app, coges el id que te genera la app y lo copias en ionic.config.json
+Por consola de comandos:
+ ionic login
+ ionic upload
+ 
+ Te descargas la app "ionicView"
